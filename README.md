@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=captainyaya&show_icons=true&locale=en&layout=compact" alt="captainyaya" /></p>
 
-![snake gif](https://github.com/CaptainYaya/CaptainYaya/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/altasaait/atlasaait/blob/output/github-contribution-grid-snake.gif)
 
